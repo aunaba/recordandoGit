@@ -1,1 +1,3 @@
 pruebas sin usar git status por que nos muestra más info de la necesaria. con git status -s
+
+cambios mas visuales desde git
